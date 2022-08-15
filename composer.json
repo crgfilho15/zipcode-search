@@ -1,0 +1,23 @@
+{
+    "name": "crgfilho15/cep",
+    "description": "Busca de CEP online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Crgfilho15\\Cep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "crgfilho15",
+            "email": "crgfilho15@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">= 7.2.0"
+    }
+}
